@@ -17,19 +17,19 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 100%
-  icon: r-project
+  icon: function
   icon_pack: fab
   name: MATLAB
 - description: 80%
-  icon: chart-line
+  icon: laptop-code
   icon_pack: fas
   name: PYTHON
 - description: 70%
-  icon: camera-retro
+  icon: cube
   icon_pack: fas
   name: CFD
 - description: 30%
-  icon: :tennis:
+  icon: 🎾
   icon_pack: emoji
   name: Tennis
 
