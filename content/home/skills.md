@@ -29,7 +29,7 @@ feature:
   icon_pack: fas
   name: CFD
 - description: 30%
-  icon: tennis
+  icon: :tennis:
   icon_pack: emoji
   name: Tennis
 
