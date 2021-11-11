@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 100%
   icon: infinity
-  icon_pack: fab
+  icon_pack: fas
   name: MATLAB
 - description: 80%
   icon: laptop-code
