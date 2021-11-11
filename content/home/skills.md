@@ -28,10 +28,10 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: CFD
-- description: 30%
-  icon: tennis
-  icon_pack: fas
-  name: Tennis
+# - description: 30%
+#  icon: tennis
+#  icon_pack: emoji
+#  name: Tennis
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
