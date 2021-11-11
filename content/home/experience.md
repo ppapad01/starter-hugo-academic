@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Associate
+    company: KIOS Research and Innovation Center of Excellence
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Nicosia, Cyprus
+    date_start: '2020-07-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -35,16 +35,25 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+      
+  - title: Special Scientist
+    company: Department of Electrical and Computer Enginnering, University of Cyprus
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
+    location: Nicosia, Cyprus
+    date_start: '2020-09-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Taught introcduction to control systems.
+ 
+  - title: Research Assistant
+    company: KIOS Research and Innovation Center of Excellence
+    company_url: ''
+    company_logo: org-x
+    location: Nicosia, Cyprus
+    date_start: '2012-07-01'
+    date_end: '2020-06-31'
+    description: Reserch on monitoring and control on Heating, Ventilation and Air-Conditioning systems.
 
 design:
-  columns: '2'
+  columns: '3'
 ---
