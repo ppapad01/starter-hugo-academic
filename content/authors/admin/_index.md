@@ -64,13 +64,13 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "papadopoulos.m.panayiotis@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a Research Associate at KIOS Research and Innovation CoE. His research interests include distributed control, fault diangosis and artificial intelligence. He leads the Smart Buildings group, which develops sensor networks for intelligent monitoring and control algorithms for smart buildings.
+Panayiotis Papadopoulos is a Research Associate at KIOS Research and Innovation CoE. His research interests include distributed control, fault diangosis and artificial intelligence. He leads the Smart Buildings group, which develops sensor networks for intelligent monitoring and control algorithms for smart buildings.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
