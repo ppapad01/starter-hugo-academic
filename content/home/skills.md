@@ -24,10 +24,12 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: PYTHON
- - description: 70%
+- description: 70%
   icon: camera-retro
   icon_pack: fas
   name: CFD
+  
+  
 # - description: 30%
 #  icon: tennis
 #  icon_pack: emoji
