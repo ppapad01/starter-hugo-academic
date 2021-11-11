@@ -46,7 +46,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/PanayiotisPapa
-- icon: google-scholar # graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: google-scholar # graduation-cap  Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai # fas
   link: https://scholar.google.com/citations?user=DOL_7pMAAAAJ&hl=en
 - icon: github
