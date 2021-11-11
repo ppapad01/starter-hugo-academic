@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Panayiotis Papadopoulos, PhD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: KIOS Research and Innovation Center of Excellence, University of Cyprus 
+  url: https://www.kios.ucy.ac.cy/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed control, fault diagnosis, smart buildings and energy systems.
 
 # Interests to show in About widget
 interests:
