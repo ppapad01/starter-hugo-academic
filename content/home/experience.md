@@ -36,7 +36,7 @@ experience:
         * Modelling
         * Deploying
       
- - title: Special Scientist
+  - title: Special Scientist
     company: Department of Electrical and Computer Enginnering, University of Cyprus
     company_url: ''
     company_logo: org-x
