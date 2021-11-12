@@ -30,15 +30,17 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE/CAA Journal of Automatica Sinica*
-publication_short: In *IEEE/CAA JAS*
+publication: In *IEEE CAA Journal of Automatica Sinica*
+publication_short: In *IEEE CAA JAS*
 
 abstract: The enormous energy use of the building sector and the requirements for indoor living quality that aim to improve occupants’ productivity and health, prioritize Smart Buildings as an emerging technology. The Heating, Ventilation and Air-Conditioning (HVAC) system is considered one of the most critical and essential parts in buildings since it consumes the largest amount of energy and is responsible for humans comfort. Due to the intermittent operation of HVAC systems, faults are more likely to occur, possibly increasing eventually building’s energy consumption and/or downgrading indoor living quality. The complexity and large scale nature of HVAC systems complicate the diagnosis of faults in a centralized framework. This paper presents a distributed intelligent fault diagnosis algorithm for detecting and isolating multiple sensor faults in large-scale HVAC systems. Modeling the HVAC system as a network of interconnected subsystems allows the design of a set of distributed sensor fault diagnosis agents capable of isolating multiple sensor faults by applying a combinatorial decision logic and diagnostic reasoning. The performance of the proposed method is investigated with respect to robustness, fault detectability and scalability. Simulations are used to illustrate the effectiveness of the proposed method in the presence of multiple sensor faults applied to a 83-zone HVAC system and to evaluate the sensitivity of the method with respect to sensor noise variance.
 
 # Summary. An optional shortened abstract.
 summary: Building automation, fault diagnosis, fault location, smart homes.
 
-tags: []
+tags:
+- Source Themes
+featured: true
 
 # Display this page in the Featured widget?
 featured: true
