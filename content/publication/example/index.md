@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Scalable distributed sensor fault diagnosis for smart buildings"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -15,8 +15,8 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2020-07-01T00:00:00Z"
+doi: "10.1109/JAS.2020.1003123"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
