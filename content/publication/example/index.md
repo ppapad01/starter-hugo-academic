@@ -14,6 +14,8 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2020-07-01T00:00:00Z"
 doi: "10.1109/JAS.2020.1003123"
@@ -31,7 +33,7 @@ publication_types: ["2"]
 publication: In *IEEE/CAA Journal of Automatica Sinica*
 publication_short: In *IEEE/CAA JAS*
 
-abstract: The enormous energy use of the building sector and the requirements for indoor living quality that aim to improve oc- cupants’ productivity and health, prioritize Smart Buildings as an emerging technology. The Heating, Ventilation and Air-Condi- tioning (HVAC) system is considered one of the most critical and essential parts in buildings since it consumes the largest amount of energy and is responsible for humans comfort. Due to the in- termittent operation of HVAC systems, faults are more likely to occur, possibly increasing eventually building’s energy consump- tion and/or downgrading indoor living quality. The complexity and large scale nature of HVAC systems complicate the diagnosis of faults in a centralized framework. This paper presents a dis- tributed intelligent fault diagnosis algorithm for detecting and isolating multiple sensor faults in large-scale HVAC systems. Modeling the HVAC system as a network of interconnected sub- systems allows the design of a set of distributed sensor fault dia- gnosis agents capable of isolating multiple sensor faults by apply- ing a combinatorial decision logic and diagnostic reasoning. The performance of the proposed method is investigated with respect to robustness, fault detectability and scalability. Simulations are used to illustrate the effectiveness of the proposed method in the presence of multiple sensor faults applied to a 83-zone HVAC system and to evaluate the sensitivity of the method with respect to sensor noise variance.
+abstract: The enormous energy use of the building sector and the requirements for indoor living quality that aim to improve occupants’ productivity and health, prioritize Smart Buildings as an emerging technology. The Heating, Ventilation and Air-Conditioning (HVAC) system is considered one of the most critical and essential parts in buildings since it consumes the largest amount of energy and is responsible for humans comfort. Due to the intermittent operation of HVAC systems, faults are more likely to occur, possibly increasing eventually building’s energy consumption and/or downgrading indoor living quality. The complexity and large scale nature of HVAC systems complicate the diagnosis of faults in a centralized framework. This paper presents a distributed intelligent fault diagnosis algorithm for detecting and isolating multiple sensor faults in large-scale HVAC systems. Modeling the HVAC system as a network of interconnected subsystems allows the design of a set of distributed sensor fault diagnosis agents capable of isolating multiple sensor faults by applying a combinatorial decision logic and diagnostic reasoning. The performance of the proposed method is investigated with respect to robustness, fault detectability and scalability. Simulations are used to illustrate the effectiveness of the proposed method in the presence of multiple sensor faults applied to a 83-zone HVAC system and to evaluate the sensitivity of the method with respect to sensor noise variance.
 
 # Summary. An optional shortened abstract.
 summary: Building automation, fault diagnosis, fault location, smart homes.
