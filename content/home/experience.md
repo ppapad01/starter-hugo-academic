@@ -54,5 +54,5 @@ experience:
     description: Reserch on monitoring and control on Heating, Ventilation and Air-Conditioning systems.
 
 design:
-  columns: '2'
+  columns: '3'
 ---
