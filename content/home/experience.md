@@ -31,10 +31,11 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
+        
         * Analysing
         * Modelling
         * Deploying
-      
+ 
   - title: Special Scientist
     company: Department of Electrical and Computer Enginnering, University of Cyprus
     company_url: ''
@@ -43,7 +44,7 @@ experience:
     date_start: '2020-09-01'
     date_end: '2020-12-31'
     description: Taught introcduction to control systems.
- 
+  
   - title: Research Assistant
     company: KIOS Research and Innovation Center of Excellence
     company_url: ''
